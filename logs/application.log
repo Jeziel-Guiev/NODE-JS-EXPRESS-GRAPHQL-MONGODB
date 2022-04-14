@@ -1,0 +1,327 @@
+[2022-04-11T16:40:12.276] [INFO] default - Connected with MongoDB service (production mode)
+[2022-04-11T16:40:12.569] [INFO] default - Application running on: http://192.168.2.58:4000
+[2022-04-11T16:40:12.570] [INFO] default - Application running on: http://127.0.0.1:4000
+[2022-04-11T16:40:40.510] [INFO] default - Connected with MongoDB service (production mode)
+[2022-04-11T16:40:40.744] [INFO] default - Application running on: http://192.168.2.58:3000
+[2022-04-11T16:40:40.745] [INFO] default - Application running on: http://127.0.0.1:3000
+[2022-04-11T16:42:00.273] [INFO] default - Connected with MongoDB service (production mode)
+[2022-04-11T16:42:00.471] [INFO] default - Application running on: http://192.168.2.58:3000
+[2022-04-11T16:42:00.472] [INFO] default - Application running on: http://127.0.0.1:3000
+[2022-04-11T16:42:15.782] [INFO] default - Connected with MongoDB service (production mode)
+[2022-04-11T16:42:16.004] [INFO] default - Application running on: http://192.168.2.58:3000
+[2022-04-11T16:42:16.005] [INFO] default - Application running on: http://127.0.0.1:3000
+[2022-04-11T17:02:13.682] [INFO] default - Connected with MongoDB service (production mode)
+[2022-04-11T17:02:13.941] [INFO] default - Application running on: http://192.168.2.58:3000
+[2022-04-11T17:02:13.942] [INFO] default - Application running on: http://127.0.0.1:3000
+[2022-04-11T17:02:25.867] [INFO] default - Connected with MongoDB service (production mode)
+[2022-04-11T17:02:26.090] [INFO] default - Application running on: http://192.168.2.58:3000
+[2022-04-11T17:02:26.090] [INFO] default - Application running on: http://127.0.0.1:3000
+[2022-04-11T17:02:45.144] [INFO] default - Connected with MongoDB service (production mode)
+[2022-04-11T17:02:45.348] [INFO] default - Application running on: http://192.168.2.58:3000
+[2022-04-11T17:02:45.349] [INFO] default - Application running on: http://127.0.0.1:3000
+[2022-04-11T17:07:35.451] [INFO] default - Connected with MongoDB service (production mode)
+[2022-04-11T17:07:35.656] [INFO] default - Application running on: http://192.168.2.58:3000
+[2022-04-11T17:07:35.657] [INFO] default - Application running on: http://127.0.0.1:3000
+[2022-04-11T17:19:06.748] [INFO] default - Connected with MongoDB service (production mode)
+[2022-04-11T17:19:06.987] [INFO] default - Application running on: http://192.168.2.58:3000
+[2022-04-11T17:19:06.989] [INFO] default - Application running on: http://127.0.0.1:3000
+[2022-04-11T17:39:21.829] [INFO] default - Connected with MongoDB service (production mode)
+[2022-04-11T17:39:22.139] [INFO] default - Application running on: http://192.168.2.58:3000
+[2022-04-11T17:39:22.144] [INFO] default - Application running on: http://127.0.0.1:3000
+[2022-04-11T18:00:56.999] [INFO] default - Connected with MongoDB service (production mode)
+[2022-04-11T18:00:57.315] [INFO] default - Application running on: http://192.168.2.58:3000
+[2022-04-11T18:00:57.316] [INFO] default - GraphQL Playground running on: http://192.168.2.58:3000/graphql
+[2022-04-11T18:00:57.316] [INFO] default - Application running on: http://127.0.0.1:3000
+[2022-04-11T18:00:57.318] [INFO] default - GraphQL Playground running on: http://127.0.0.1:3000/graphql
+[2022-04-11T18:01:40.840] [INFO] default - Connected with MongoDB service (production mode)
+[2022-04-11T18:01:41.042] [INFO] default - Application running on: http://192.168.2.58:3000
+[2022-04-11T18:01:41.045] [INFO] default - GraphQL Playground running on: http://192.168.2.58:3000/graphql
+[2022-04-11T18:01:41.046] [INFO] default - Application running on: http://127.0.0.1:3000
+[2022-04-11T18:01:41.047] [INFO] default - GraphQL Playground running on: http://127.0.0.1:3000/graphql
+[2022-04-11T18:04:18.072] [INFO] default - Connected with MongoDB service (production mode)
+[2022-04-11T18:04:18.271] [INFO] default - Application running on: http://192.168.2.58:3000
+[2022-04-11T18:04:18.272] [INFO] default - GraphQL Playground running on: http://192.168.2.58:3000/graphql
+[2022-04-11T18:04:18.272] [INFO] default - Application running on: http://127.0.0.1:3000
+[2022-04-11T18:04:18.273] [INFO] default - GraphQL Playground running on: http://127.0.0.1:3000/graphql
+[2022-04-11T18:04:38.155] [INFO] default - Connected with MongoDB service (production mode)
+[2022-04-11T18:04:38.370] [INFO] default - Application running on: http://192.168.2.58:3000
+[2022-04-11T18:04:38.371] [INFO] default - GraphQL Playground running on: http://192.168.2.58:3000/graphql
+[2022-04-11T18:04:38.371] [INFO] default - Application running on: http://127.0.0.1:3000
+[2022-04-11T18:04:38.373] [INFO] default - GraphQL Playground running on: http://127.0.0.1:3000/graphql
+[2022-04-11T18:05:35.461] [INFO] default - Connected with MongoDB service (production mode)
+[2022-04-11T18:05:35.671] [INFO] default - Application running on: http://192.168.2.58:3000
+[2022-04-11T18:05:35.672] [INFO] default - GraphQL Playground running on: http://192.168.2.58:3000/graphql
+[2022-04-11T18:05:35.672] [INFO] default - Application running on: http://127.0.0.1:3000
+[2022-04-11T18:05:35.674] [INFO] default - GraphQL Playground running on: http://127.0.0.1:3000/graphql
+[2022-04-11T18:05:45.315] [INFO] default - Connected with MongoDB service (production mode)
+[2022-04-11T18:05:45.552] [INFO] default - Application running on: http://192.168.2.58:3000
+[2022-04-11T18:05:45.553] [INFO] default - GraphQL Playground running on: http://192.168.2.58:3000/graphql
+[2022-04-11T18:05:45.553] [INFO] default - Application running on: http://127.0.0.1:3000
+[2022-04-11T18:05:45.554] [INFO] default - GraphQL Playground running on: http://127.0.0.1:3000/graphql
+[2022-04-11T18:08:23.172] [INFO] default - Connected with MongoDB service (production mode)
+[2022-04-11T18:08:23.388] [INFO] default - Application running on: http://192.168.2.58:3000
+[2022-04-11T18:08:23.389] [INFO] default - GraphQL Playground running on: http://192.168.2.58:3000/graphql
+[2022-04-11T18:08:23.390] [INFO] default - Application running on: http://127.0.0.1:3000
+[2022-04-11T18:08:23.391] [INFO] default - GraphQL Playground running on: http://127.0.0.1:3000/graphql
+[2022-04-11T18:09:14.958] [INFO] default - Connected with MongoDB service (production mode)
+[2022-04-11T18:09:15.190] [INFO] default - Application running on: http://192.168.2.58:3000
+[2022-04-11T18:09:15.191] [INFO] default - GraphQL Playground running on: http://192.168.2.58:3000/graphql
+[2022-04-11T18:09:15.192] [INFO] default - Application running on: http://127.0.0.1:3000
+[2022-04-11T18:09:15.193] [INFO] default - GraphQL Playground running on: http://127.0.0.1:3000/graphql
+[2022-04-11T18:09:43.297] [INFO] default - Connected with MongoDB service (production mode)
+[2022-04-11T18:09:43.485] [INFO] default - Application running on: http://192.168.2.58:3000
+[2022-04-11T18:09:43.486] [INFO] default - GraphQL Playground running on: http://192.168.2.58:3000/graphql
+[2022-04-11T18:09:43.486] [INFO] default - Application running on: http://127.0.0.1:3000
+[2022-04-11T18:09:43.487] [INFO] default - GraphQL Playground running on: http://127.0.0.1:3000/graphql
+[2022-04-11T18:10:30.081] [INFO] default - Connected with MongoDB service (production mode)
+[2022-04-11T18:10:30.281] [INFO] default - Application running on: http://192.168.2.58:3000
+[2022-04-11T18:10:30.282] [INFO] default - GraphQL Playground running on: http://192.168.2.58:3000/graphql
+[2022-04-11T18:10:30.282] [INFO] default - Application running on: http://127.0.0.1:3000
+[2022-04-11T18:10:30.283] [INFO] default - GraphQL Playground running on: http://127.0.0.1:3000/graphql
+[2022-04-11T18:10:46.845] [INFO] default - Connected with MongoDB service (production mode)
+[2022-04-11T18:10:47.077] [INFO] default - Application running on: http://192.168.2.58:3000
+[2022-04-11T18:10:47.078] [INFO] default - GraphQL Playground running on: http://192.168.2.58:3000/graphql
+[2022-04-11T18:10:47.078] [INFO] default - Application running on: http://127.0.0.1:3000
+[2022-04-11T18:10:47.080] [INFO] default - GraphQL Playground running on: http://127.0.0.1:3000/graphql
+[2022-04-11T18:14:26.134] [INFO] default - Connected with MongoDB service (production mode)
+[2022-04-11T18:14:26.413] [INFO] default - Application running on: http://192.168.2.58:3000
+[2022-04-11T18:14:26.414] [INFO] default - GraphQL Playground running on: http://192.168.2.58:3000/graphql
+[2022-04-11T18:14:26.415] [INFO] default - Application running on: http://127.0.0.1:3000
+[2022-04-11T18:14:26.416] [INFO] default - GraphQL Playground running on: http://127.0.0.1:3000/graphql
+[2022-04-11T18:14:47.278] [INFO] default - Connected with MongoDB service (production mode)
+[2022-04-11T18:14:47.554] [INFO] default - Application running on: http://192.168.2.58:3000
+[2022-04-11T18:14:47.555] [INFO] default - GraphQL Playground running on: http://192.168.2.58:3000/graphql
+[2022-04-11T18:14:47.556] [INFO] default - Application running on: http://127.0.0.1:3000
+[2022-04-11T18:14:47.557] [INFO] default - GraphQL Playground running on: http://127.0.0.1:3000/graphql
+[2022-04-11T18:15:26.734] [INFO] default - Connected with MongoDB service (production mode)
+[2022-04-11T18:15:26.948] [INFO] default - Application running on: http://192.168.2.58:3000
+[2022-04-11T18:15:26.948] [INFO] default - GraphQL Playground running on: http://192.168.2.58:3000/graphql
+[2022-04-11T18:15:26.949] [INFO] default - Application running on: http://127.0.0.1:3000
+[2022-04-11T18:15:26.951] [INFO] default - GraphQL Playground running on: http://127.0.0.1:3000/graphql
+[2022-04-11T18:16:42.282] [INFO] default - Connected with MongoDB service at "localhost" in port "27017" using database "boilerplate_database" (production mode)
+[2022-04-11T18:16:42.594] [INFO] default - Application running on: http://192.168.2.58:3000
+[2022-04-11T18:16:42.598] [INFO] default - GraphQL Playground running on: http://192.168.2.58:3000/graphql
+[2022-04-11T18:16:42.599] [INFO] default - Application running on: http://127.0.0.1:3000
+[2022-04-11T18:16:42.601] [INFO] default - GraphQL Playground running on: http://127.0.0.1:3000/graphql
+[2022-04-11T18:17:20.324] [INFO] default - Connected with MongoDB service at "localhost" in port "27017" using database "boilerplate_database" (production mode)
+[2022-04-11T18:17:20.597] [INFO] default - Application running on: http://192.168.2.58:3000
+[2022-04-11T18:17:20.598] [INFO] default - Application running on: http://127.0.0.1:3000
+[2022-04-11T18:17:43.847] [INFO] default - Connected with MongoDB service at "localhost" in port "27017" using database "boilerplate_database" (production mode)
+[2022-04-11T18:17:44.071] [INFO] default - Application running on: http://192.168.2.58:3000
+[2022-04-11T18:17:44.072] [INFO] default - Application running on: http://127.0.0.1:3000
+[2022-04-11T18:18:39.534] [INFO] default - Connected with MongoDB service at "localhost" in port "27017" using database "boilerplate_database" (production mode)
+[2022-04-11T18:18:39.764] [INFO] default - Application running on: http://192.168.2.58:3000
+[2022-04-11T18:18:39.765] [INFO] default - Application running on: http://127.0.0.1:3000
+[2022-04-11T18:19:56.323] [ERROR] default - Connection error with database. MongoAPIError: URI must include hostname, domain name, and tld
+[2022-04-11T18:21:12.722] [INFO] default - Connected with MongoDB service at "localhost" in port "27017" using database "boilerplate_database" (production mode)
+[2022-04-11T18:21:12.920] [INFO] default - Application running on: http://192.168.2.58:3000
+[2022-04-11T18:21:12.921] [INFO] default - Application running on: http://127.0.0.1:3000
+[2022-04-11T18:21:59.173] [INFO] default - Connected with MongoDB service (production mode)
+[2022-04-11T18:21:59.519] [INFO] default - Application running on: http://192.168.2.58:3000
+[2022-04-11T18:21:59.525] [INFO] default - Application running on: http://127.0.0.1:3000
+[2022-04-11T18:23:20.180] [INFO] default - Connected with MongoDB service (production mode)
+[2022-04-11T18:23:20.482] [INFO] default - Application running on: http://192.168.2.58:3000
+[2022-04-11T18:23:20.483] [INFO] default - Application running on: http://127.0.0.1:3000
+[2022-04-11T18:23:38.676] [INFO] default - Connected with MongoDB service (production mode)
+[2022-04-11T18:23:38.928] [INFO] default - Application running on: http://192.168.2.58:3000
+[2022-04-11T18:23:38.928] [INFO] default - Application running on: http://127.0.0.1:3000
+[2022-04-11T18:23:51.551] [INFO] default - Connected with MongoDB service (production mode)
+[2022-04-11T18:23:52.165] [INFO] default - Application running on: http://192.168.2.58:3000
+[2022-04-11T18:23:52.168] [INFO] default - Application running on: http://127.0.0.1:3000
+[2022-04-11T18:24:28.980] [INFO] default - Connected with MongoDB service (production mode)
+[2022-04-11T18:24:29.163] [INFO] default - Application running on: http://192.168.2.58:3000
+[2022-04-11T18:24:29.164] [INFO] default - Application running on: http://127.0.0.1:3000
+[2022-04-11T18:24:38.759] [INFO] default - Connected with MongoDB service (production mode)
+[2022-04-11T18:24:39.027] [INFO] default - Application running on: http://192.168.2.58:3000
+[2022-04-11T18:24:39.028] [INFO] default - Application running on: http://127.0.0.1:3000
+[2022-04-11T18:25:21.690] [INFO] default - Connected with MongoDB service (production mode)
+[2022-04-11T18:25:21.919] [INFO] default - Application running on: http://192.168.2.58:3000
+[2022-04-11T18:25:21.920] [INFO] default - Application running on: http://127.0.0.1:3000
+[2022-04-11T18:26:02.245] [INFO] default - Connected with MongoDB service (production mode)
+[2022-04-11T18:26:02.646] [INFO] default - Application running on: http://192.168.2.58:3000
+[2022-04-11T18:26:02.647] [INFO] default - Application running on: http://127.0.0.1:3000
+[2022-04-11T18:27:09.658] [INFO] default - Connected with MongoDB service (production mode)
+[2022-04-11T18:27:09.971] [INFO] default - Application running on: http://192.168.2.58:3000
+[2022-04-11T18:27:09.972] [INFO] default - Application running on: http://127.0.0.1:3000
+[2022-04-11T18:27:27.141] [INFO] default - Connected with MongoDB service (production mode)
+[2022-04-11T18:27:55.210] [INFO] default - Connected with MongoDB service (production mode)
+[2022-04-11T18:27:55.513] [INFO] default - Application running on: http://192.168.2.58:3000
+[2022-04-11T18:27:55.514] [INFO] default - Application running on: http://127.0.0.1:3000
+[2022-04-11T20:00:57.292] [INFO] default - Connected with MongoDB service (production mode)
+[2022-04-11T20:00:58.359] [INFO] default - Application running on: http://192.168.2.58:3000
+[2022-04-11T20:00:58.557] [INFO] default - Application running on: http://127.0.0.1:3000
+[2022-04-14T07:21:22.370] [INFO] default - Connected with MongoDB service (production mode)
+[2022-04-14T07:21:22.797] [INFO] default - Application running on: http://192.168.2.58:3000
+[2022-04-14T07:21:22.798] [INFO] default - Application running on: http://127.0.0.1:3000
+[2022-04-14T07:24:00.473] [INFO] default - Connected with MongoDB service (production mode)
+[2022-04-14T07:24:00.736] [INFO] default - Application running on: http://192.168.2.58:3000
+[2022-04-14T07:24:00.738] [INFO] default - Application running on: http://127.0.0.1:3000
+[2022-04-14T07:24:46.760] [INFO] default - Connected with MongoDB service (production mode)
+[2022-04-14T07:24:46.991] [INFO] default - Application running on: http://192.168.2.58:3000
+[2022-04-14T07:24:46.992] [INFO] default - Application running on: http://127.0.0.1:3000
+[2022-04-14T07:24:57.792] [ERROR] default - GraphQL introspection is not allowed by Apollo Server, but the query contained __schema or __type. To enable introspection, pass introspection: true to ApolloServer in production
+[2022-04-14T07:25:00.679] [ERROR] default - GraphQL introspection is not allowed by Apollo Server, but the query contained __schema or __type. To enable introspection, pass introspection: true to ApolloServer in production
+[2022-04-14T07:25:01.126] [ERROR] default - GraphQL introspection is not allowed by Apollo Server, but the query contained __schema or __type. To enable introspection, pass introspection: true to ApolloServer in production
+[2022-04-14T07:25:01.780] [ERROR] default - GraphQL introspection is not allowed by Apollo Server, but the query contained __schema or __type. To enable introspection, pass introspection: true to ApolloServer in production
+[2022-04-14T07:25:02.689] [ERROR] default - GraphQL introspection is not allowed by Apollo Server, but the query contained __schema or __type. To enable introspection, pass introspection: true to ApolloServer in production
+[2022-04-14T07:25:03.681] [ERROR] default - GraphQL introspection is not allowed by Apollo Server, but the query contained __schema or __type. To enable introspection, pass introspection: true to ApolloServer in production
+[2022-04-14T07:25:04.706] [ERROR] default - GraphQL introspection is not allowed by Apollo Server, but the query contained __schema or __type. To enable introspection, pass introspection: true to ApolloServer in production
+[2022-04-14T07:25:05.698] [ERROR] default - GraphQL introspection is not allowed by Apollo Server, but the query contained __schema or __type. To enable introspection, pass introspection: true to ApolloServer in production
+[2022-04-14T07:25:06.691] [ERROR] default - GraphQL introspection is not allowed by Apollo Server, but the query contained __schema or __type. To enable introspection, pass introspection: true to ApolloServer in production
+[2022-04-14T07:25:07.696] [ERROR] default - GraphQL introspection is not allowed by Apollo Server, but the query contained __schema or __type. To enable introspection, pass introspection: true to ApolloServer in production
+[2022-04-14T07:25:08.698] [ERROR] default - GraphQL introspection is not allowed by Apollo Server, but the query contained __schema or __type. To enable introspection, pass introspection: true to ApolloServer in production
+[2022-04-14T07:25:09.686] [ERROR] default - GraphQL introspection is not allowed by Apollo Server, but the query contained __schema or __type. To enable introspection, pass introspection: true to ApolloServer in production
+[2022-04-14T07:25:10.682] [ERROR] default - GraphQL introspection is not allowed by Apollo Server, but the query contained __schema or __type. To enable introspection, pass introspection: true to ApolloServer in production
+[2022-04-14T07:25:11.680] [ERROR] default - GraphQL introspection is not allowed by Apollo Server, but the query contained __schema or __type. To enable introspection, pass introspection: true to ApolloServer in production
+[2022-04-14T07:25:12.694] [ERROR] default - GraphQL introspection is not allowed by Apollo Server, but the query contained __schema or __type. To enable introspection, pass introspection: true to ApolloServer in production
+[2022-04-14T07:25:13.684] [ERROR] default - GraphQL introspection is not allowed by Apollo Server, but the query contained __schema or __type. To enable introspection, pass introspection: true to ApolloServer in production
+[2022-04-14T07:25:14.702] [ERROR] default - GraphQL introspection is not allowed by Apollo Server, but the query contained __schema or __type. To enable introspection, pass introspection: true to ApolloServer in production
+[2022-04-14T07:25:15.707] [ERROR] default - GraphQL introspection is not allowed by Apollo Server, but the query contained __schema or __type. To enable introspection, pass introspection: true to ApolloServer in production
+[2022-04-14T07:25:16.689] [ERROR] default - GraphQL introspection is not allowed by Apollo Server, but the query contained __schema or __type. To enable introspection, pass introspection: true to ApolloServer in production
+[2022-04-14T07:25:17.686] [ERROR] default - GraphQL introspection is not allowed by Apollo Server, but the query contained __schema or __type. To enable introspection, pass introspection: true to ApolloServer in production
+[2022-04-14T07:25:18.698] [ERROR] default - GraphQL introspection is not allowed by Apollo Server, but the query contained __schema or __type. To enable introspection, pass introspection: true to ApolloServer in production
+[2022-04-14T07:25:19.689] [ERROR] default - GraphQL introspection is not allowed by Apollo Server, but the query contained __schema or __type. To enable introspection, pass introspection: true to ApolloServer in production
+[2022-04-14T07:25:20.695] [ERROR] default - GraphQL introspection is not allowed by Apollo Server, but the query contained __schema or __type. To enable introspection, pass introspection: true to ApolloServer in production
+[2022-04-14T07:25:21.712] [ERROR] default - GraphQL introspection is not allowed by Apollo Server, but the query contained __schema or __type. To enable introspection, pass introspection: true to ApolloServer in production
+[2022-04-14T07:25:22.690] [ERROR] default - GraphQL introspection is not allowed by Apollo Server, but the query contained __schema or __type. To enable introspection, pass introspection: true to ApolloServer in production
+[2022-04-14T07:25:23.690] [ERROR] default - GraphQL introspection is not allowed by Apollo Server, but the query contained __schema or __type. To enable introspection, pass introspection: true to ApolloServer in production
+[2022-04-14T07:25:24.683] [ERROR] default - GraphQL introspection is not allowed by Apollo Server, but the query contained __schema or __type. To enable introspection, pass introspection: true to ApolloServer in production
+[2022-04-14T07:25:25.687] [ERROR] default - GraphQL introspection is not allowed by Apollo Server, but the query contained __schema or __type. To enable introspection, pass introspection: true to ApolloServer in production
+[2022-04-14T07:25:26.692] [ERROR] default - GraphQL introspection is not allowed by Apollo Server, but the query contained __schema or __type. To enable introspection, pass introspection: true to ApolloServer in production
+[2022-04-14T07:25:27.680] [ERROR] default - GraphQL introspection is not allowed by Apollo Server, but the query contained __schema or __type. To enable introspection, pass introspection: true to ApolloServer in production
+[2022-04-14T07:25:28.694] [ERROR] default - GraphQL introspection is not allowed by Apollo Server, but the query contained __schema or __type. To enable introspection, pass introspection: true to ApolloServer in production
+[2022-04-14T07:25:29.677] [ERROR] default - GraphQL introspection is not allowed by Apollo Server, but the query contained __schema or __type. To enable introspection, pass introspection: true to ApolloServer in production
+[2022-04-14T07:25:30.697] [ERROR] default - GraphQL introspection is not allowed by Apollo Server, but the query contained __schema or __type. To enable introspection, pass introspection: true to ApolloServer in production
+[2022-04-14T07:25:31.697] [ERROR] default - GraphQL introspection is not allowed by Apollo Server, but the query contained __schema or __type. To enable introspection, pass introspection: true to ApolloServer in production
+[2022-04-14T07:25:32.690] [ERROR] default - GraphQL introspection is not allowed by Apollo Server, but the query contained __schema or __type. To enable introspection, pass introspection: true to ApolloServer in production
+[2022-04-14T07:25:33.685] [ERROR] default - GraphQL introspection is not allowed by Apollo Server, but the query contained __schema or __type. To enable introspection, pass introspection: true to ApolloServer in production
+[2022-04-14T07:25:34.683] [ERROR] default - GraphQL introspection is not allowed by Apollo Server, but the query contained __schema or __type. To enable introspection, pass introspection: true to ApolloServer in production
+[2022-04-14T07:25:35.688] [ERROR] default - GraphQL introspection is not allowed by Apollo Server, but the query contained __schema or __type. To enable introspection, pass introspection: true to ApolloServer in production
+[2022-04-14T07:25:36.683] [ERROR] default - GraphQL introspection is not allowed by Apollo Server, but the query contained __schema or __type. To enable introspection, pass introspection: true to ApolloServer in production
+[2022-04-14T07:25:37.684] [ERROR] default - GraphQL introspection is not allowed by Apollo Server, but the query contained __schema or __type. To enable introspection, pass introspection: true to ApolloServer in production
+[2022-04-14T07:25:38.681] [ERROR] default - GraphQL introspection is not allowed by Apollo Server, but the query contained __schema or __type. To enable introspection, pass introspection: true to ApolloServer in production
+[2022-04-14T07:25:39.703] [ERROR] default - GraphQL introspection is not allowed by Apollo Server, but the query contained __schema or __type. To enable introspection, pass introspection: true to ApolloServer in production
+[2022-04-14T07:25:40.689] [ERROR] default - GraphQL introspection is not allowed by Apollo Server, but the query contained __schema or __type. To enable introspection, pass introspection: true to ApolloServer in production
+[2022-04-14T07:25:41.693] [ERROR] default - GraphQL introspection is not allowed by Apollo Server, but the query contained __schema or __type. To enable introspection, pass introspection: true to ApolloServer in production
+[2022-04-14T07:25:42.693] [ERROR] default - GraphQL introspection is not allowed by Apollo Server, but the query contained __schema or __type. To enable introspection, pass introspection: true to ApolloServer in production
+[2022-04-14T07:25:43.693] [ERROR] default - GraphQL introspection is not allowed by Apollo Server, but the query contained __schema or __type. To enable introspection, pass introspection: true to ApolloServer in production
+[2022-04-14T07:25:44.673] [ERROR] default - GraphQL introspection is not allowed by Apollo Server, but the query contained __schema or __type. To enable introspection, pass introspection: true to ApolloServer in production
+[2022-04-14T07:25:45.687] [ERROR] default - GraphQL introspection is not allowed by Apollo Server, but the query contained __schema or __type. To enable introspection, pass introspection: true to ApolloServer in production
+[2022-04-14T07:25:46.683] [ERROR] default - GraphQL introspection is not allowed by Apollo Server, but the query contained __schema or __type. To enable introspection, pass introspection: true to ApolloServer in production
+[2022-04-14T07:25:47.680] [ERROR] default - GraphQL introspection is not allowed by Apollo Server, but the query contained __schema or __type. To enable introspection, pass introspection: true to ApolloServer in production
+[2022-04-14T07:25:48.690] [ERROR] default - GraphQL introspection is not allowed by Apollo Server, but the query contained __schema or __type. To enable introspection, pass introspection: true to ApolloServer in production
+[2022-04-14T07:25:49.677] [ERROR] default - GraphQL introspection is not allowed by Apollo Server, but the query contained __schema or __type. To enable introspection, pass introspection: true to ApolloServer in production
+[2022-04-14T07:25:50.685] [ERROR] default - GraphQL introspection is not allowed by Apollo Server, but the query contained __schema or __type. To enable introspection, pass introspection: true to ApolloServer in production
+[2022-04-14T07:25:51.677] [ERROR] default - GraphQL introspection is not allowed by Apollo Server, but the query contained __schema or __type. To enable introspection, pass introspection: true to ApolloServer in production
+[2022-04-14T07:25:52.675] [ERROR] default - GraphQL introspection is not allowed by Apollo Server, but the query contained __schema or __type. To enable introspection, pass introspection: true to ApolloServer in production
+[2022-04-14T07:26:02.419] [INFO] default - Connected with MongoDB service (production mode)
+[2022-04-14T07:26:02.667] [INFO] default - Application running on: http://192.168.2.58:3000
+[2022-04-14T07:26:02.668] [INFO] default - Application running on: http://127.0.0.1:3000
+[2022-04-14T08:22:51.510] [INFO] default - Connected with MongoDB service (production mode)
+[2022-04-14T08:22:51.854] [INFO] default - Application running on: http://192.168.2.58:3000
+[2022-04-14T08:22:51.855] [INFO] default - Application running on: http://127.0.0.1:3000
+[2022-04-14T13:55:10.797] [INFO] default - Connected with MongoDB service (production mode)
+[2022-04-14T13:55:11.101] [INFO] default - Application running on: http://192.168.2.58:3000
+[2022-04-14T13:55:11.102] [INFO] default - Application running on: http://127.0.0.1:3000
+[2022-04-14T14:28:01.232] [INFO] default - Connected with MongoDB service (production mode)
+[2022-04-14T14:28:01.531] [INFO] default - Application running on: http://192.168.2.58:3000
+[2022-04-14T14:28:01.532] [INFO] default - Application running on: http://127.0.0.1:3000
+[2022-04-14T14:31:59.081] [INFO] default - Connected with MongoDB service (production mode)
+[2022-04-14T14:31:59.432] [INFO] default - Application running on: http://192.168.2.58:3000
+[2022-04-14T14:31:59.435] [INFO] default - Application running on: http://127.0.0.1:3000
+[2022-04-14T14:36:34.024] [INFO] default - Connected with MongoDB service (production mode)
+[2022-04-14T14:36:34.278] [INFO] default - Application running on: http://192.168.2.58:3000
+[2022-04-14T14:36:34.279] [INFO] default - Application running on: http://127.0.0.1:3000
+[2022-04-14T14:49:06.466] [INFO] default - Connected with MongoDB service (production mode)
+[2022-04-14T14:49:06.745] [INFO] default - Application running on: http://192.168.2.58:3000
+[2022-04-14T14:49:06.746] [INFO] default - Application running on: http://127.0.0.1:3000
+[2022-04-14T14:52:21.721] [INFO] default - Connected with MongoDB service (production mode)
+[2022-04-14T14:52:22.006] [INFO] default - Application running on: http://192.168.2.58:3000
+[2022-04-14T14:52:22.007] [INFO] default - Application running on: http://127.0.0.1:3000
+[2022-04-14T14:53:33.894] [INFO] default - Connected with MongoDB service (production mode)
+[2022-04-14T14:53:34.131] [INFO] default - Application running on: http://192.168.2.58:3000
+[2022-04-14T14:53:34.131] [INFO] default - Application running on: http://127.0.0.1:3000
+[2022-04-14T14:54:26.893] [INFO] default - Connected with MongoDB service (production mode)
+[2022-04-14T14:54:27.127] [INFO] default - Application running on: http://192.168.2.58:3000
+[2022-04-14T14:54:27.128] [INFO] default - Application running on: http://127.0.0.1:3000
+[2022-04-14T14:59:04.790] [INFO] default - Connected with MongoDB service (production mode)
+[2022-04-14T14:59:05.088] [INFO] default - Application running on: http://192.168.2.58:3000
+[2022-04-14T14:59:05.089] [INFO] default - Application running on: http://127.0.0.1:3000
+[2022-04-14T14:59:49.546] [INFO] default - Connected with MongoDB service (production mode)
+[2022-04-14T14:59:50.025] [INFO] default - Application running on: http://192.168.2.58:3000
+[2022-04-14T14:59:50.026] [INFO] default - Application running on: http://127.0.0.1:3000
+[2022-04-14T15:01:40.820] [INFO] default - Connected with MongoDB service (production mode)
+[2022-04-14T15:01:41.074] [INFO] default - Application running on: http://192.168.2.58:3000
+[2022-04-14T15:01:41.075] [INFO] default - Application running on: http://127.0.0.1:3000
+[2022-04-14T15:02:46.042] [INFO] default - Connected with MongoDB service (production mode)
+[2022-04-14T15:02:46.307] [INFO] default - Application running on: http://192.168.2.58:3000
+[2022-04-14T15:02:46.308] [INFO] default - Application running on: http://127.0.0.1:3000
+[2022-04-14T17:03:45.768] [INFO] default - Connected with MongoDB service (production mode)
+[2022-04-14T17:03:46.988] [INFO] default - Application running on: http://192.168.2.58:3000
+[2022-04-14T17:03:46.989] [INFO] default - Application running on: http://127.0.0.1:3000
+[2022-04-14T18:44:04.943] [INFO] default - Connected with MongoDB service (production mode)
+[2022-04-14T18:44:05.404] [INFO] default - Application running on: http://192.168.2.58:3000
+[2022-04-14T18:44:05.405] [INFO] default - Application running on: http://127.0.0.1:3000
+[2022-04-14T19:06:38.551] [INFO] default - Connected with MongoDB service (production mode)
+[2022-04-14T19:06:38.805] [INFO] default - Application running on: http://192.168.2.58:3000
+[2022-04-14T19:06:38.806] [INFO] default - Application running on: http://127.0.0.1:3000
+[2022-04-14T19:14:16.297] [INFO] default - Connected with MongoDB service (production mode)
+[2022-04-14T19:14:16.541] [INFO] default - Application running on: http://192.168.2.58:3000
+[2022-04-14T19:14:16.543] [INFO] default - Application running on: http://127.0.0.1:3000
+[2022-04-14T19:14:18.974] [ERROR] default - context is not defined
+[2022-04-14T19:14:46.602] [INFO] default - Connected with MongoDB service (production mode)
+[2022-04-14T19:14:46.818] [INFO] default - Application running on: http://192.168.2.58:3000
+[2022-04-14T19:14:46.819] [INFO] default - Application running on: http://127.0.0.1:3000
+[2022-04-14T19:14:48.074] [ERROR] default - Query was already executed: users.find({})
+[2022-04-14T19:14:55.337] [ERROR] default - Query was already executed: users.find({})
+[2022-04-14T19:18:08.766] [INFO] default - Connected with MongoDB service (production mode)
+[2022-04-14T19:18:09.005] [INFO] default - Application running on: http://192.168.2.58:3000
+[2022-04-14T19:18:09.006] [INFO] default - Application running on: http://127.0.0.1:3000
+[2022-04-14T19:18:33.368] [INFO] default - Connected with MongoDB service (production mode)
+[2022-04-14T19:18:33.596] [INFO] default - Application running on: http://192.168.2.58:3000
+[2022-04-14T19:18:33.597] [INFO] default - Application running on: http://127.0.0.1:3000
+[2022-04-14T19:18:46.539] [INFO] default - Connected with MongoDB service (production mode)
+[2022-04-14T19:18:46.964] [INFO] default - Application running on: http://192.168.2.58:3000
+[2022-04-14T19:18:46.965] [INFO] default - Application running on: http://127.0.0.1:3000
+[2022-04-14T19:19:07.369] [ERROR] default - Query was already executed: users.find({ _id: new ObjectId("6258191a9157019b89cf5c61") }...
+[2022-04-14T19:19:39.398] [INFO] default - Connected with MongoDB service (production mode)
+[2022-04-14T19:19:39.705] [INFO] default - Application running on: http://192.168.2.58:3000
+[2022-04-14T19:19:39.706] [INFO] default - Application running on: http://127.0.0.1:3000
+[2022-04-14T19:19:55.971] [INFO] default - Connected with MongoDB service (production mode)
+[2022-04-14T19:19:56.268] [INFO] default - Application running on: http://192.168.2.58:3000
+[2022-04-14T19:19:56.273] [INFO] default - Application running on: http://127.0.0.1:3000
+[2022-04-14T19:19:58.906] [ERROR] default - Query was already executed: users.findOne({ _id: new ObjectId("6258191a9157019b89cf5c61"...
+[2022-04-14T19:22:10.853] [INFO] default - Connected with MongoDB service (production mode)
+[2022-04-14T19:22:11.204] [INFO] default - Application running on: http://192.168.2.58:3000
+[2022-04-14T19:22:11.205] [INFO] default - Application running on: http://127.0.0.1:3000
+[2022-04-14T19:22:14.662] [ERROR] default - Query was already executed: users.findOne({ _id: new ObjectId("6258191a9157019b89cf5c61"...
+[2022-04-14T19:23:57.557] [ERROR] default - Query was already executed: users.findOne({ _id: new ObjectId("6258191a9157019b89cf5c61"...
+[2022-04-14T19:25:19.151] [INFO] default - Connected with MongoDB service (production mode)
+[2022-04-14T19:25:19.544] [INFO] default - Application running on: http://192.168.2.58:3000
+[2022-04-14T19:25:19.545] [INFO] default - Application running on: http://127.0.0.1:3000
+[2022-04-14T19:25:20.040] [ERROR] default - Query was already executed: users.find({})
+[2022-04-14T19:25:20.463] [ERROR] default - Query was already executed: users.find({})
+[2022-04-14T19:25:50.470] [INFO] default - Connected with MongoDB service (production mode)
+[2022-04-14T19:25:50.746] [INFO] default - Application running on: http://192.168.2.58:3000
+[2022-04-14T19:25:50.747] [INFO] default - Application running on: http://127.0.0.1:3000
+[2022-04-14T19:25:53.479] [ERROR] default - Query was already executed: users.find({ _id: new ObjectId("6258191a9157019b89cf5c61") }...
+[2022-04-14T19:26:47.301] [INFO] default - Connected with MongoDB service (production mode)
+[2022-04-14T19:26:47.703] [INFO] default - Application running on: http://192.168.2.58:3000
+[2022-04-14T19:26:47.706] [INFO] default - Application running on: http://127.0.0.1:3000
+[2022-04-14T19:26:48.705] [ERROR] default - Query was already executed: users.find({ _id: new ObjectId("6258191a9157019b89cf5c61") }...
+[2022-04-14T19:30:57.439] [INFO] default - Connected with MongoDB service (production mode)
+[2022-04-14T19:30:57.692] [INFO] default - Application running on: http://192.168.2.58:3000
+[2022-04-14T19:30:57.693] [INFO] default - Application running on: http://127.0.0.1:3000
+[2022-04-14T19:31:25.273] [INFO] default - Connected with MongoDB service (production mode)
+[2022-04-14T19:31:25.567] [INFO] default - Application running on: http://192.168.2.58:3000
+[2022-04-14T19:31:25.569] [INFO] default - Application running on: http://127.0.0.1:3000
+[2022-04-14T19:31:30.415] [ERROR] default - Query was already executed: users.find({})
+[2022-04-14T19:34:21.636] [INFO] default - Connected with MongoDB service (production mode)
+[2022-04-14T19:34:22.099] [INFO] default - Application running on: http://192.168.2.58:3000
+[2022-04-14T19:34:22.104] [INFO] default - Application running on: http://127.0.0.1:3000
+[2022-04-14T19:34:50.053] [INFO] default - Connected with MongoDB service (production mode)
+[2022-04-14T19:34:50.405] [INFO] default - Application running on: http://192.168.2.58:3000
+[2022-04-14T19:34:50.406] [INFO] default - Application running on: http://127.0.0.1:3000
+[2022-04-14T20:02:16.191] [INFO] default - Connected with MongoDB service (production mode)
+[2022-04-14T20:02:17.179] [INFO] default - Application running on: http://192.168.2.58:3000
+[2022-04-14T20:02:17.186] [INFO] default - Application running on: http://127.0.0.1:3000
