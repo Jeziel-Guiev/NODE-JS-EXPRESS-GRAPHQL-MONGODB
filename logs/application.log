@@ -325,3 +325,504 @@
 [2022-04-14T20:02:16.191] [INFO] default - Connected with MongoDB service (production mode)
 [2022-04-14T20:02:17.179] [INFO] default - Application running on: http://192.168.2.58:3000
 [2022-04-14T20:02:17.186] [INFO] default - Application running on: http://127.0.0.1:3000
+[2022-04-16T05:26:17.708] [INFO] default - Connected with MongoDB service (production mode)
+[2022-04-16T05:26:18.010] [INFO] default - Application running on: http://192.168.2.58:3000
+[2022-04-16T05:26:18.011] [INFO] default - Application running on: http://127.0.0.1:3000
+[2022-04-16T05:42:29.697] [INFO] default - Connected with MongoDB service (production mode)
+[2022-04-16T05:42:29.936] [INFO] default - Application running on: http://192.168.2.58:3000
+[2022-04-16T05:42:29.937] [INFO] default - Application running on: http://127.0.0.1:3000
+[2022-04-16T05:59:41.865] [INFO] default - Connected with MongoDB service (production mode)
+[2022-04-16T05:59:42.201] [INFO] default - Application running on: http://192.168.2.58:3000
+[2022-04-16T05:59:42.202] [INFO] default - Application running on: http://127.0.0.1:3000
+[2022-04-16T06:01:13.304] [INFO] default - Connected with MongoDB service (production mode)
+[2022-04-16T06:01:13.611] [INFO] default - Application running on: http://192.168.2.58:3000
+[2022-04-16T06:01:13.614] [INFO] default - Application running on: http://127.0.0.1:3000
+[2022-04-16T06:01:54.822] [INFO] default - Connected with MongoDB service (production mode)
+[2022-04-16T06:01:55.792] [INFO] default - Application running on: http://192.168.2.58:3000
+[2022-04-16T06:01:55.801] [INFO] default - Application running on: http://127.0.0.1:3000
+[2022-04-16T06:04:42.874] [INFO] default - Connected with MongoDB service (production mode)
+[2022-04-16T06:04:43.264] [INFO] default - Application running on: http://192.168.2.58:3000
+[2022-04-16T06:04:43.280] [INFO] default - Application running on: http://127.0.0.1:3000
+[2022-04-16T06:05:22.935] [INFO] default - Connected with MongoDB service (production mode)
+[2022-04-16T06:05:23.194] [INFO] default - Application running on: http://192.168.2.58:3000
+[2022-04-16T06:05:23.195] [INFO] default - Application running on: http://127.0.0.1:3000
+[2022-04-16T06:06:28.560] [INFO] default - Connected with MongoDB service (production mode)
+[2022-04-16T06:06:28.805] [INFO] default - Application running on: http://192.168.2.58:3000
+[2022-04-16T06:06:28.806] [INFO] default - Application running on: http://127.0.0.1:3000
+[2022-04-16T06:21:50.297] [INFO] default - Connected with MongoDB service (production mode)
+[2022-04-16T06:21:50.537] [INFO] default - Application running on: http://192.168.2.58:3000
+[2022-04-16T06:21:50.538] [INFO] default - Application running on: http://127.0.0.1:3000
+[2022-04-16T06:22:24.811] [INFO] default - Connected with MongoDB service (production mode)
+[2022-04-16T06:22:25.012] [INFO] default - Application running on: http://192.168.2.58:3000
+[2022-04-16T06:22:25.013] [INFO] default - Application running on: http://127.0.0.1:3000
+[2022-04-16T06:23:02.183] [INFO] default - Connected with MongoDB service (production mode)
+[2022-04-16T06:23:02.384] [INFO] default - Application running on: http://192.168.2.58:3000
+[2022-04-16T06:23:02.385] [INFO] default - Application running on: http://127.0.0.1:3000
+[2022-04-16T06:25:53.615] [INFO] default - Connected with MongoDB service (production mode)
+[2022-04-16T06:25:54.020] [INFO] default - Application running on: http://192.168.2.58:3000
+[2022-04-16T06:25:54.021] [INFO] default - Application running on: http://127.0.0.1:3000
+[2022-04-16T06:40:58.049] [INFO] default - Connected with MongoDB service (production mode)
+[2022-04-16T06:40:58.341] [INFO] default - Application running on: http://192.168.2.58:3000
+[2022-04-16T06:40:58.342] [INFO] default - Application running on: http://127.0.0.1:3000
+[2022-04-16T06:45:00.355] [ERROR] default - You must be logged in to perform this action
+[2022-04-16T06:49:11.115] [ERROR] default - You must be an administrator to perform this action
+[2022-04-16T06:53:05.276] [ERROR] default - You must be an administrator to perform this action
+[2022-04-16T06:53:22.827] [INFO] default - Connected with MongoDB service (production mode)
+[2022-04-16T06:53:23.158] [INFO] default - Application running on: http://192.168.2.58:3000
+[2022-04-16T06:53:23.172] [INFO] default - Application running on: http://127.0.0.1:3000
+[2022-04-16T06:53:26.462] [ERROR] default - You must be an administrator to perform this action
+[2022-04-16T06:54:52.354] [ERROR] default - Cannot query field "ability" on type "User".
+[2022-04-16T07:41:56.978] [INFO] default - Connected with MongoDB service (production mode)
+[2022-04-16T07:41:57.249] [INFO] default - Application running on: http://192.168.2.58:3000
+[2022-04-16T07:41:57.250] [INFO] default - Application running on: http://127.0.0.1:3000
+[2022-04-16T14:51:40.971] [INFO] default - Connected with MongoDB service (production mode)
+[2022-04-16T14:51:41.215] [INFO] default - Application running on: http://192.168.2.58:3000
+[2022-04-16T14:51:41.216] [INFO] default - Application running on: http://127.0.0.1:3000
+[2022-04-16T14:53:59.651] [INFO] default - Connected with MongoDB service (production mode)
+[2022-04-16T14:54:00.429] [INFO] default - Application running on: http://192.168.2.58:3000
+[2022-04-16T14:54:00.443] [INFO] default - Application running on: http://127.0.0.1:3000
+[2022-04-16T14:55:05.317] [ERROR] default - You must be logged in to perform this action
+[2022-04-16T15:03:03.522] [INFO] default - Connected with MongoDB service (production mode)
+[2022-04-16T15:03:03.740] [INFO] default - Application running on: http://192.168.2.58:3000
+[2022-04-16T15:03:03.741] [INFO] default - Application running on: http://127.0.0.1:3000
+[2022-04-16T15:13:39.135] [ERROR] default - You must be logged in to perform this action
+[2022-04-16T15:19:35.622] [ERROR] default - You must be logged in to perform this action
+[2022-04-16T15:24:37.853] [INFO] default - Connected with MongoDB service (production mode)
+[2022-04-16T15:24:38.074] [INFO] default - Application running on: http://192.168.2.58:3000
+[2022-04-16T15:24:38.075] [INFO] default - Application running on: http://127.0.0.1:3000
+[2022-04-16T15:41:44.750] [INFO] default - Connected with MongoDB service (production mode)
+[2022-04-16T15:41:44.982] [INFO] default - Application running on: http://192.168.2.58:3000
+[2022-04-16T15:41:44.983] [INFO] default - Application running on: http://127.0.0.1:3000
+[2022-04-16T17:34:30.866] [ERROR] default - You must be logged in to perform this action
+[2022-04-16T17:35:27.842] [ERROR] default - You must be logged in to perform this action
+[2022-04-16T17:52:06.695] [ERROR] default - You must be logged in to perform this action
+[2022-04-16T17:54:53.430] [ERROR] default - You must be logged in to perform this action
+[2022-04-16T18:06:17.956] [ERROR] default - You must be logged in to perform this action
+[2022-04-16T18:06:54.205] [ERROR] default - You must be logged in to perform this action
+[2022-04-16T18:07:17.109] [ERROR] default - You must be logged in to perform this action
+[2022-04-16T18:29:42.088] [ERROR] default - You must be logged in to perform this action
+[2022-04-16T18:30:05.353] [ERROR] default - You must be logged in to perform this action
+[2022-04-16T18:46:36.293] [ERROR] default - You must be logged in to perform this action
+[2022-04-16T18:47:49.478] [ERROR] default - You must be logged in to perform this action
+[2022-04-16T18:48:42.678] [INFO] default - Connected with MongoDB service (production mode)
+[2022-04-16T18:48:43.487] [INFO] default - Application running on: http://192.168.2.58:3000
+[2022-04-16T18:48:43.488] [INFO] default - Application running on: http://127.0.0.1:3000
+[2022-04-16T18:49:56.932] [INFO] default - Connected with MongoDB service (production mode)
+[2022-04-16T18:49:57.366] [INFO] default - Application running on: http://192.168.2.58:3000
+[2022-04-16T18:49:57.377] [INFO] default - Application running on: http://127.0.0.1:3000
+[2022-04-16T18:50:24.358] [INFO] default - Connected with MongoDB service (production mode)
+[2022-04-16T18:50:24.652] [INFO] default - Application running on: http://192.168.2.58:3000
+[2022-04-16T18:50:24.654] [INFO] default - Application running on: http://127.0.0.1:3000
+[2022-04-16T18:52:29.908] [ERROR] default - You must be logged in to perform this action
+[2022-04-16T18:53:51.742] [ERROR] default - You must be logged in to perform this action
+[2022-04-16T18:56:10.542] [INFO] default - Connected with MongoDB service (production mode)
+[2022-04-16T18:56:11.267] [INFO] default - Application running on: http://192.168.2.58:3000
+[2022-04-16T18:56:11.268] [INFO] default - Application running on: http://127.0.0.1:3000
+[2022-04-16T18:56:15.399] [ERROR] default - You must be logged in to perform this action
+[2022-04-16T18:58:10.728] [INFO] default - Connected with MongoDB service (production mode)
+[2022-04-16T18:58:11.032] [INFO] default - Application running on: http://192.168.2.58:3000
+[2022-04-16T18:58:11.033] [INFO] default - Application running on: http://127.0.0.1:3000
+[2022-04-16T18:58:17.947] [ERROR] default - You must be logged in to perform this action
+[2022-04-16T19:06:27.878] [INFO] default - Connected with MongoDB service (production mode)
+[2022-04-16T19:06:28.192] [INFO] default - Application running on: http://192.168.2.58:3000
+[2022-04-16T19:06:28.192] [INFO] default - Application running on: http://127.0.0.1:3000
+[2022-04-16T19:06:41.235] [ERROR] default - You must be logged in to perform this action
+[2022-04-16T19:06:57.438] [INFO] default - Connected with MongoDB service (production mode)
+[2022-04-16T19:06:57.641] [INFO] default - Application running on: http://192.168.2.58:3000
+[2022-04-16T19:06:57.642] [INFO] default - Application running on: http://127.0.0.1:3000
+[2022-04-16T19:07:05.803] [ERROR] default - You must be logged in to perform this action
+[2022-04-16T19:08:12.659] [INFO] default - Connected with MongoDB service (production mode)
+[2022-04-16T19:08:12.986] [INFO] default - Application running on: http://192.168.2.58:3000
+[2022-04-16T19:08:13.016] [INFO] default - Application running on: http://127.0.0.1:3000
+[2022-04-16T19:08:14.935] [ERROR] default - You must be logged in to perform this action
+[2022-04-16T19:10:52.036] [INFO] default - Connected with MongoDB service (production mode)
+[2022-04-16T19:10:52.561] [INFO] default - Application running on: http://192.168.2.58:3000
+[2022-04-16T19:10:52.562] [INFO] default - Application running on: http://127.0.0.1:3000
+[2022-04-16T19:11:06.626] [INFO] default - Connected with MongoDB service (production mode)
+[2022-04-16T19:11:07.081] [INFO] default - Application running on: http://192.168.2.58:3000
+[2022-04-16T19:11:07.081] [INFO] default - Application running on: http://127.0.0.1:3000
+[2022-04-16T19:11:12.570] [ERROR] default - You must be logged in to perform this action
+[2022-04-16T19:12:49.077] [INFO] default - Connected with MongoDB service (production mode)
+[2022-04-16T19:12:49.498] [INFO] default - Application running on: http://192.168.2.58:3000
+[2022-04-16T19:12:49.503] [INFO] default - Application running on: http://127.0.0.1:3000
+[2022-04-16T19:26:26.637] [INFO] default - Connected with MongoDB service (production mode)
+[2022-04-16T19:26:26.991] [INFO] default - Application running on: http://192.168.2.58:3000
+[2022-04-16T19:26:26.993] [INFO] default - Application running on: http://127.0.0.1:3000
+[2022-04-16T19:27:44.980] [ERROR] default - You must be logged in to perform this action
+[2022-04-16T19:31:36.266] [ERROR] default - You must be logged in to perform this action
+[2022-04-16T19:31:57.766] [INFO] default - Connected with MongoDB service (production mode)
+[2022-04-16T19:31:58.071] [INFO] default - Application running on: http://192.168.2.58:3000
+[2022-04-16T19:31:58.071] [INFO] default - Application running on: http://127.0.0.1:3000
+[2022-04-16T19:31:59.930] [ERROR] default - You must be logged in to perform this action
+[2022-04-16T19:32:52.072] [ERROR] default - You must be logged in to perform this action
+[2022-04-16T19:34:07.843] [ERROR] default - You must be logged in to perform this action
+[2022-04-16T19:35:26.062] [INFO] default - Connected with MongoDB service (production mode)
+[2022-04-16T19:35:26.319] [INFO] default - Application running on: http://192.168.2.58:3000
+[2022-04-16T19:35:26.320] [INFO] default - Application running on: http://127.0.0.1:3000
+[2022-04-16T19:35:28.581] [ERROR] default - You must be logged in to perform this action
+[2022-04-16T19:36:50.003] [INFO] default - Connected with MongoDB service (production mode)
+[2022-04-16T19:36:50.233] [INFO] default - Application running on: http://192.168.2.58:3000
+[2022-04-16T19:36:50.233] [INFO] default - Application running on: http://127.0.0.1:3000
+[2022-04-16T19:37:48.101] [ERROR] default - You must be logged in to perform this action
+[2022-04-16T19:39:53.816] [ERROR] default - You must be logged in to perform this action
+[2022-04-16T19:41:51.272] [INFO] default - Connected with MongoDB service (production mode)
+[2022-04-16T19:41:51.582] [INFO] default - Application running on: http://192.168.2.58:3000
+[2022-04-16T19:41:51.582] [INFO] default - Application running on: http://127.0.0.1:3000
+[2022-04-16T19:41:54.653] [ERROR] default - You must be logged in to perform this action
+[2022-04-16T19:43:46.929] [INFO] default - Connected with MongoDB service (production mode)
+[2022-04-16T19:43:47.228] [INFO] default - Application running on: http://192.168.2.58:3000
+[2022-04-16T19:43:47.229] [INFO] default - Application running on: http://127.0.0.1:3000
+[2022-04-16T19:43:56.689] [INFO] default - Connected with MongoDB service (production mode)
+[2022-04-16T19:43:56.962] [INFO] default - Application running on: http://192.168.2.58:3000
+[2022-04-16T19:43:56.963] [INFO] default - Application running on: http://127.0.0.1:3000
+[2022-04-16T19:44:22.234] [INFO] default - Connected with MongoDB service (production mode)
+[2022-04-16T19:44:22.531] [INFO] default - Application running on: http://192.168.2.58:3000
+[2022-04-16T19:44:22.531] [INFO] default - Application running on: http://127.0.0.1:3000
+[2022-04-16T19:44:42.910] [ERROR] default - You must be logged in to perform this action
+[2022-04-16T19:45:08.360] [INFO] default - Connected with MongoDB service (production mode)
+[2022-04-16T19:45:08.582] [INFO] default - Application running on: http://192.168.2.58:3000
+[2022-04-16T19:45:08.583] [INFO] default - Application running on: http://127.0.0.1:3000
+[2022-04-16T20:06:56.647] [INFO] default - Connected with MongoDB service (production mode)
+[2022-04-16T20:06:57.420] [INFO] default - Application running on: http://192.168.2.58:3000
+[2022-04-16T20:06:57.421] [INFO] default - Application running on: http://127.0.0.1:3000
+[2022-04-16T20:07:31.732] [ERROR] default - You must be logged in to perform this action
+[2022-04-16T20:09:30.122] [INFO] default - Connected with MongoDB service (production mode)
+[2022-04-16T20:09:30.481] [INFO] default - Application running on: http://192.168.2.58:3000
+[2022-04-16T20:09:30.485] [INFO] default - Application running on: http://127.0.0.1:3000
+[2022-04-16T20:09:55.785] [INFO] default - Connected with MongoDB service (production mode)
+[2022-04-16T20:09:56.031] [INFO] default - Application running on: http://192.168.2.58:3000
+[2022-04-16T20:09:56.032] [INFO] default - Application running on: http://127.0.0.1:3000
+[2022-04-16T20:09:57.216] [ERROR] default - You must be logged in to perform this action
+[2022-04-16T20:10:24.676] [INFO] default - Connected with MongoDB service (production mode)
+[2022-04-16T20:10:24.934] [INFO] default - Application running on: http://192.168.2.58:3000
+[2022-04-16T20:10:24.935] [INFO] default - Application running on: http://127.0.0.1:3000
+[2022-04-16T20:10:30.193] [ERROR] default - You must be logged in to perform this action
+[2022-04-16T20:12:12.999] [INFO] default - Connected with MongoDB service (production mode)
+[2022-04-16T20:12:13.217] [INFO] default - Application running on: http://192.168.2.58:3000
+[2022-04-16T20:12:13.218] [INFO] default - Application running on: http://127.0.0.1:3000
+[2022-04-16T20:12:19.674] [INFO] default - Connected with MongoDB service (production mode)
+[2022-04-16T20:12:20.023] [INFO] default - Application running on: http://192.168.2.58:3000
+[2022-04-16T20:12:20.024] [INFO] default - Application running on: http://127.0.0.1:3000
+[2022-04-16T20:12:43.867] [INFO] default - Connected with MongoDB service (production mode)
+[2022-04-16T20:12:44.170] [INFO] default - Application running on: http://192.168.2.58:3000
+[2022-04-16T20:12:44.171] [INFO] default - Application running on: http://127.0.0.1:3000
+[2022-04-16T20:13:38.950] [INFO] default - Connected with MongoDB service (production mode)
+[2022-04-16T20:13:39.161] [INFO] default - Application running on: http://192.168.2.58:3000
+[2022-04-16T20:13:39.162] [INFO] default - Application running on: http://127.0.0.1:3000
+[2022-04-16T20:14:54.626] [INFO] default - Connected with MongoDB service (production mode)
+[2022-04-16T20:14:55.017] [INFO] default - Application running on: http://192.168.2.58:3000
+[2022-04-16T20:14:55.018] [INFO] default - Application running on: http://127.0.0.1:3000
+[2022-04-16T20:15:40.892] [INFO] default - Connected with MongoDB service (production mode)
+[2022-04-16T20:15:41.243] [INFO] default - Application running on: http://192.168.2.58:3000
+[2022-04-16T20:15:41.244] [INFO] default - Application running on: http://127.0.0.1:3000
+[2022-04-16T20:16:01.479] [INFO] default - Connected with MongoDB service (production mode)
+[2022-04-16T20:16:01.882] [INFO] default - Application running on: http://192.168.2.58:3000
+[2022-04-16T20:16:01.884] [INFO] default - Application running on: http://127.0.0.1:3000
+[2022-04-16T20:16:06.804] [ERROR] default - You must be logged in to perform this action
+[2022-04-16T20:17:18.925] [INFO] default - Connected with MongoDB service (production mode)
+[2022-04-16T20:17:19.184] [INFO] default - Application running on: http://192.168.2.58:3000
+[2022-04-16T20:17:19.185] [INFO] default - Application running on: http://127.0.0.1:3000
+[2022-04-16T20:18:03.736] [INFO] default - Connected with MongoDB service (production mode)
+[2022-04-16T20:18:04.521] [INFO] default - Application running on: http://192.168.2.58:3000
+[2022-04-16T20:18:04.522] [INFO] default - Application running on: http://127.0.0.1:3000
+[2022-04-16T20:18:14.884] [ERROR] default - You must be logged in to perform this action
+[2022-04-16T20:18:44.350] [INFO] default - Connected with MongoDB service (production mode)
+[2022-04-16T20:18:44.563] [INFO] default - Application running on: http://192.168.2.58:3000
+[2022-04-16T20:18:44.564] [INFO] default - Application running on: http://127.0.0.1:3000
+[2022-04-16T20:18:52.327] [ERROR] default - You must be logged in to perform this action
+[2022-04-16T20:22:30.450] [ERROR] default - You must be logged in to perform this action
+[2022-04-16T20:22:34.103] [ERROR] default - You must be logged in to perform this action
+[2022-04-16T20:22:44.834] [ERROR] default - You must be logged in to perform this action
+[2022-04-16T20:27:11.217] [ERROR] default - You must be logged in to perform this action
+[2022-04-16T20:27:18.373] [ERROR] default - You must be logged in to perform this action
+[2022-04-16T20:27:32.093] [ERROR] default - You must be logged in to perform this action
+[2022-04-16T20:28:05.536] [ERROR] default - You must be logged in to perform this action
+[2022-04-16T20:28:07.374] [ERROR] default - You must be logged in to perform this action
+[2022-04-16T20:29:45.076] [INFO] default - Connected with MongoDB service (production mode)
+[2022-04-16T20:29:45.378] [INFO] default - Application running on: http://192.168.2.58:3000
+[2022-04-16T20:29:45.381] [INFO] default - Application running on: http://127.0.0.1:3000
+[2022-04-16T20:29:50.105] [ERROR] default - You must be logged in to perform this action
+[2022-04-16T20:30:32.626] [INFO] default - Connected with MongoDB service (production mode)
+[2022-04-16T20:30:32.947] [INFO] default - Application running on: http://192.168.2.58:3000
+[2022-04-16T20:30:32.949] [INFO] default - Application running on: http://127.0.0.1:3000
+[2022-04-16T20:31:41.216] [ERROR] default - You must be logged in to perform this action
+[2022-04-16T20:32:25.370] [ERROR] default - You must be logged in to perform this action
+[2022-04-16T20:33:19.861] [INFO] default - Connected with MongoDB service (production mode)
+[2022-04-16T20:33:20.079] [INFO] default - Application running on: http://192.168.2.58:3000
+[2022-04-16T20:33:20.080] [INFO] default - Application running on: http://127.0.0.1:3000
+[2022-04-16T20:35:23.887] [INFO] default - Connected with MongoDB service (production mode)
+[2022-04-16T20:35:24.080] [INFO] default - Application running on: http://192.168.2.58:3000
+[2022-04-16T20:35:24.081] [INFO] default - Application running on: http://127.0.0.1:3000
+[2022-04-16T20:35:31.320] [ERROR] default - You must be logged in to perform this action
+[2022-04-18T00:51:15.054] [INFO] default - Connected with MongoDB service (production mode)
+[2022-04-18T00:51:15.357] [INFO] default - Application running on: http://192.168.2.58:3000
+[2022-04-18T00:51:15.358] [INFO] default - Application running on: http://127.0.0.1:3000
+[2022-04-18T01:00:03.348] [ERROR] default - Cannot query field "getAllTasks" on type "Query".
+[2022-04-18T01:04:31.617] [ERROR] default - You must be logged in to perform this action
+[2022-04-18T02:57:18.803] [ERROR] default - You must be logged in to perform this action
+[2022-04-18T03:04:18.121] [ERROR] default - You must be logged in to perform this action
+[2022-04-18T03:04:56.142] [ERROR] default - You must be logged in to perform this action
+[2022-04-18T03:23:58.985] [ERROR] default - You must be logged in to perform this action
+[2022-04-18T03:24:23.311] [ERROR] default - You must be logged in to perform this action
+[2022-04-18T03:25:42.676] [ERROR] default - You must be logged in to perform this action
+[2022-04-18T03:29:00.349] [ERROR] default - You must be logged in to perform this action
+[2022-04-18T03:30:00.807] [INFO] default - Connected with MongoDB service (production mode)
+[2022-04-18T03:30:01.130] [INFO] default - Application running on: http://192.168.2.58:3000
+[2022-04-18T03:30:01.131] [INFO] default - Application running on: http://127.0.0.1:3000
+[2022-04-18T03:32:07.382] [ERROR] default - You must be logged in to perform this action
+[2022-04-18T03:37:31.148] [INFO] default - Connected with MongoDB service (production mode)
+[2022-04-18T03:37:31.374] [INFO] default - Application running on: http://192.168.2.58:3000
+[2022-04-18T03:37:31.375] [INFO] default - Application running on: http://127.0.0.1:3000
+[2022-04-18T03:38:55.379] [INFO] default - Connected with MongoDB service (production mode)
+[2022-04-18T03:38:55.698] [INFO] default - Application running on: http://192.168.2.58:3000
+[2022-04-18T03:38:55.699] [INFO] default - Application running on: http://127.0.0.1:3000
+[2022-04-18T03:39:34.155] [ERROR] default - You must be logged in to perform this action
+[2022-04-18T03:40:18.410] [INFO] default - Connected with MongoDB service (production mode)
+[2022-04-18T03:40:18.713] [INFO] default - Application running on: http://192.168.2.58:3000
+[2022-04-18T03:40:18.714] [INFO] default - Application running on: http://127.0.0.1:3000
+[2022-04-18T03:42:41.803] [INFO] default - Connected with MongoDB service (production mode)
+[2022-04-18T03:42:42.056] [INFO] default - Application running on: http://192.168.2.58:3000
+[2022-04-18T03:42:42.057] [INFO] default - Application running on: http://127.0.0.1:3000
+[2022-04-18T03:42:50.830] [ERROR] default - You must be logged in to perform this action
+[2022-04-18T03:45:38.288] [INFO] default - Connected with MongoDB service (production mode)
+[2022-04-18T03:45:38.928] [INFO] default - Application running on: http://192.168.2.58:3000
+[2022-04-18T03:45:38.929] [INFO] default - Application running on: http://127.0.0.1:3000
+[2022-04-18T03:45:43.301] [ERROR] default - You must be logged in to perform this action
+[2022-04-18T03:46:16.238] [INFO] default - Connected with MongoDB service (production mode)
+[2022-04-18T03:46:16.809] [INFO] default - Application running on: http://192.168.2.58:3000
+[2022-04-18T03:46:16.810] [INFO] default - Application running on: http://127.0.0.1:3000
+[2022-04-18T03:46:17.585] [ERROR] default - You must be logged in to perform this action
+[2022-04-18T03:47:45.128] [INFO] default - Connected with MongoDB service (production mode)
+[2022-04-18T03:47:45.346] [INFO] default - Application running on: http://192.168.2.58:3000
+[2022-04-18T03:47:45.347] [INFO] default - Application running on: http://127.0.0.1:3000
+[2022-04-18T03:47:50.991] [ERROR] default - You must be logged in to perform this action
+[2022-04-18T03:48:14.905] [INFO] default - Connected with MongoDB service (production mode)
+[2022-04-18T03:48:15.422] [INFO] default - Application running on: http://192.168.2.58:3000
+[2022-04-18T03:48:15.424] [INFO] default - Application running on: http://127.0.0.1:3000
+[2022-04-18T03:48:17.501] [ERROR] default - You must be logged in to perform this action
+[2022-04-18T03:48:33.976] [INFO] default - Connected with MongoDB service (production mode)
+[2022-04-18T03:48:34.216] [INFO] default - Application running on: http://192.168.2.58:3000
+[2022-04-18T03:48:34.217] [INFO] default - Application running on: http://127.0.0.1:3000
+[2022-04-18T03:48:37.521] [ERROR] default - You must be logged in to perform this action
+[2022-04-18T03:49:41.200] [INFO] default - Connected with MongoDB service (production mode)
+[2022-04-18T03:49:41.449] [INFO] default - Application running on: http://192.168.2.58:3000
+[2022-04-18T03:49:41.450] [INFO] default - Application running on: http://127.0.0.1:3000
+[2022-04-18T03:50:37.712] [ERROR] default - You must be logged in to perform this action
+[2022-04-18T03:51:51.076] [INFO] default - Connected with MongoDB service (production mode)
+[2022-04-18T03:51:51.316] [INFO] default - Application running on: http://192.168.2.58:3000
+[2022-04-18T03:51:51.317] [INFO] default - Application running on: http://127.0.0.1:3000
+[2022-04-18T03:51:54.050] [ERROR] default - You must be logged in to perform this action
+[2022-04-18T03:52:24.565] [INFO] default - Connected with MongoDB service (production mode)
+[2022-04-18T03:52:24.804] [INFO] default - Application running on: http://192.168.2.58:3000
+[2022-04-18T03:52:24.805] [INFO] default - Application running on: http://127.0.0.1:3000
+[2022-04-18T03:52:27.981] [ERROR] default - You must be logged in to perform this action
+[2022-04-18T03:52:59.189] [INFO] default - Connected with MongoDB service (production mode)
+[2022-04-18T03:52:59.422] [INFO] default - Application running on: http://192.168.2.58:3000
+[2022-04-18T03:52:59.422] [INFO] default - Application running on: http://127.0.0.1:3000
+[2022-04-18T03:52:59.827] [ERROR] default - You must be logged in to perform this action
+[2022-04-18T03:55:08.824] [INFO] default - Connected with MongoDB service (production mode)
+[2022-04-18T03:55:09.351] [INFO] default - Application running on: http://192.168.2.58:3000
+[2022-04-18T03:55:09.353] [INFO] default - Application running on: http://127.0.0.1:3000
+[2022-04-18T03:55:11.866] [ERROR] default - You must be logged in to perform this action
+[2022-04-18T03:57:22.684] [INFO] default - Connected with MongoDB service (production mode)
+[2022-04-18T03:57:22.960] [INFO] default - Application running on: http://192.168.2.58:3000
+[2022-04-18T03:57:22.961] [INFO] default - Application running on: http://127.0.0.1:3000
+[2022-04-18T03:57:27.823] [ERROR] default - You must be logged in to perform this action
+[2022-04-18T03:58:13.387] [INFO] default - Connected with MongoDB service (production mode)
+[2022-04-18T03:58:13.686] [INFO] default - Application running on: http://192.168.2.58:3000
+[2022-04-18T03:58:13.687] [INFO] default - Application running on: http://127.0.0.1:3000
+[2022-04-18T03:58:14.157] [ERROR] default - You must be logged in to perform this action
+[2022-04-18T03:58:47.223] [INFO] default - Connected with MongoDB service (production mode)
+[2022-04-18T03:58:47.491] [INFO] default - Application running on: http://192.168.2.58:3000
+[2022-04-18T03:58:47.492] [INFO] default - Application running on: http://127.0.0.1:3000
+[2022-04-18T03:58:50.121] [ERROR] default - You must be logged in to perform this action
+[2022-04-18T03:59:48.946] [INFO] default - Connected with MongoDB service (production mode)
+[2022-04-18T03:59:49.242] [INFO] default - Application running on: http://192.168.2.58:3000
+[2022-04-18T03:59:49.243] [INFO] default - Application running on: http://127.0.0.1:3000
+[2022-04-18T04:00:06.155] [INFO] default - Connected with MongoDB service (production mode)
+[2022-04-18T04:00:06.585] [INFO] default - Application running on: http://192.168.2.58:3000
+[2022-04-18T04:00:06.587] [INFO] default - Application running on: http://127.0.0.1:3000
+[2022-04-18T04:00:09.070] [ERROR] default - You must be logged in to perform this action
+[2022-04-18T04:03:21.250] [INFO] default - Connected with MongoDB service (production mode)
+[2022-04-18T04:03:21.516] [INFO] default - Application running on: http://192.168.2.58:3000
+[2022-04-18T04:03:21.517] [INFO] default - Application running on: http://127.0.0.1:3000
+[2022-04-18T04:03:28.435] [ERROR] default - You must be logged in to perform this action
+[2022-04-18T04:04:10.077] [INFO] default - Connected with MongoDB service (production mode)
+[2022-04-18T04:04:10.416] [INFO] default - Application running on: http://192.168.2.58:3000
+[2022-04-18T04:04:10.417] [INFO] default - Application running on: http://127.0.0.1:3000
+[2022-04-18T04:04:16.411] [ERROR] default - You must be logged in to perform this action
+[2022-04-18T04:05:09.185] [INFO] default - Connected with MongoDB service (production mode)
+[2022-04-18T04:05:09.469] [INFO] default - Application running on: http://192.168.2.58:3000
+[2022-04-18T04:05:09.470] [INFO] default - Application running on: http://127.0.0.1:3000
+[2022-04-18T04:07:58.647] [INFO] default - Connected with MongoDB service (production mode)
+[2022-04-18T04:07:58.927] [INFO] default - Application running on: http://192.168.2.58:3000
+[2022-04-18T04:07:58.928] [INFO] default - Application running on: http://127.0.0.1:3000
+[2022-04-18T04:13:46.374] [INFO] default - Connected with MongoDB service (production mode)
+[2022-04-18T04:13:46.663] [INFO] default - Application running on: http://192.168.2.58:3000
+[2022-04-18T04:13:46.665] [INFO] default - Application running on: http://127.0.0.1:3000
+[2022-04-18T04:56:19.720] [INFO] default - Connected with MongoDB service (production mode)
+[2022-04-18T04:56:20.002] [INFO] default - Application running on: http://192.168.2.58:3000
+[2022-04-18T04:56:20.003] [INFO] default - Application running on: http://127.0.0.1:3000
+[2022-04-18T05:26:44.506] [INFO] default - Connected with MongoDB service (production mode)
+[2022-04-18T05:27:08.755] [INFO] default - Connected with MongoDB service (production mode)
+[2022-04-18T05:27:09.000] [INFO] default - Application running on: http://192.168.2.58:3000
+[2022-04-18T05:27:09.001] [INFO] default - Application running on: http://127.0.0.1:3000
+[2022-04-18T05:44:51.399] [ERROR] default - ID cannot represent a non-string and non-integer value: String
+[2022-04-18T05:52:20.535] [ERROR] default - ID cannot represent a non-string and non-integer value: id
+[2022-04-18T05:58:07.559] [ERROR] default - ID cannot represent a non-string and non-integer value: String
+[2022-04-18T06:00:56.606] [ERROR] default - ID cannot represent a non-string and non-integer value: String
+[2022-04-18T06:00:56.607] [ERROR] default - Cannot query field "GetUserforId" on type "User".
+[2022-04-18T06:02:09.375] [ERROR] default - ID cannot represent a non-string and non-integer value: id
+[2022-04-18T06:19:44.547] [ERROR] default - Variable "$id" of type "String!" used in position expecting type "ID".
+[2022-04-18T06:23:19.338] [ERROR] default - Field "ability" of type "[ability]" must have a selection of subfields. Did you mean "ability { ... }"?
+[2022-04-18T06:42:33.359] [INFO] default - Connected with MongoDB service (production mode)
+[2022-04-18T06:42:33.692] [INFO] default - Application running on: http://192.168.2.58:3000
+[2022-04-18T06:42:33.692] [INFO] default - Application running on: http://127.0.0.1:3000
+[2022-04-18T08:29:02.398] [INFO] default - Connected with MongoDB service (production mode)
+[2022-04-18T08:29:03.051] [INFO] default - Application running on: http://192.168.2.58:3000
+[2022-04-18T08:29:03.053] [INFO] default - Application running on: http://127.0.0.1:3000
+[2022-04-18T08:42:06.332] [INFO] default - Connected with MongoDB service (production mode)
+[2022-04-18T08:42:06.548] [INFO] default - Application running on: http://192.168.2.58:3000
+[2022-04-18T08:42:06.549] [INFO] default - Application running on: http://127.0.0.1:3000
+[2022-04-18T08:50:35.611] [INFO] default - Connected with MongoDB service (production mode)
+[2022-04-18T08:50:35.871] [INFO] default - Application running on: http://192.168.2.58:3000
+[2022-04-18T08:50:35.872] [INFO] default - Application running on: http://127.0.0.1:3000
+[2022-04-18T08:50:37.439] [ERROR] default - You must be logged in to perform this action
+[2022-04-18T08:51:15.354] [ERROR] default - You must be an administrator to perform this action
+[2022-04-18T08:51:31.223] [ERROR] default - You must be an administrator to perform this action
+[2022-04-18T08:51:56.388] [ERROR] default - You must be an administrator to perform this action
+[2022-04-18T08:53:03.204] [ERROR] default - You must be an administrator to perform this action
+[2022-04-18T08:53:06.402] [ERROR] default - You must be an administrator to perform this action
+[2022-04-18T08:54:14.230] [INFO] default - Connected with MongoDB service (production mode)
+[2022-04-18T08:54:14.453] [INFO] default - Application running on: http://192.168.2.58:3000
+[2022-04-18T08:54:14.454] [INFO] default - Application running on: http://127.0.0.1:3000
+[2022-04-18T08:54:15.051] [ERROR] default - Cannot return null for non-nullable field User.direccion.
+[2022-04-18T08:54:18.152] [ERROR] default - Cannot return null for non-nullable field User.direccion.
+[2022-04-18T08:57:25.583] [INFO] default - Connected with MongoDB service (production mode)
+[2022-04-18T08:57:26.420] [INFO] default - Application running on: http://192.168.2.58:3000
+[2022-04-18T08:57:26.468] [INFO] default - Application running on: http://127.0.0.1:3000
+[2022-04-18T08:57:29.102] [ERROR] default - Cannot query field "email" on type "User".
+[2022-04-18T08:57:29.104] [ERROR] default - Cannot query field "isAdmin" on type "User".
+[2022-04-18T08:57:29.105] [ERROR] default - Cannot query field "direccion" on type "User".
+[2022-04-18T08:57:29.106] [ERROR] default - Cannot query field "paralelo" on type "User".
+[2022-04-18T08:57:29.107] [ERROR] default - Cannot query field "telefono" on type "User".
+[2022-04-18T08:57:29.107] [ERROR] default - Cannot query field "apellido" on type "User".
+[2022-04-18T08:57:39.169] [ERROR] default - Cannot return null for non-nullable field User.turno.
+[2022-04-18T08:58:03.526] [INFO] default - Connected with MongoDB service (production mode)
+[2022-04-18T08:58:03.763] [INFO] default - Application running on: http://192.168.2.58:3000
+[2022-04-18T08:58:03.764] [INFO] default - Application running on: http://127.0.0.1:3000
+[2022-04-18T08:59:15.448] [INFO] default - Connected with MongoDB service (production mode)
+[2022-04-18T08:59:15.749] [INFO] default - Application running on: http://192.168.2.58:3000
+[2022-04-18T08:59:15.751] [INFO] default - Application running on: http://127.0.0.1:3000
+[2022-04-18T09:00:20.277] [INFO] default - Connected with MongoDB service (production mode)
+[2022-04-18T09:00:20.518] [INFO] default - Application running on: http://192.168.2.58:3000
+[2022-04-18T09:00:20.519] [INFO] default - Application running on: http://127.0.0.1:3000
+[2022-04-18T09:00:36.477] [INFO] default - Connected with MongoDB service (production mode)
+[2022-04-18T09:00:36.746] [INFO] default - Application running on: http://192.168.2.58:3000
+[2022-04-18T09:00:36.747] [INFO] default - Application running on: http://127.0.0.1:3000
+[2022-04-18T09:00:54.054] [INFO] default - Connected with MongoDB service (production mode)
+[2022-04-18T09:00:54.292] [INFO] default - Application running on: http://192.168.2.58:3000
+[2022-04-18T09:00:54.293] [INFO] default - Application running on: http://127.0.0.1:3000
+[2022-04-18T09:01:06.426] [ERROR] default - Cannot query field "email" on type "User".
+[2022-04-18T09:01:06.428] [ERROR] default - Cannot query field "isAdmin" on type "User".
+[2022-04-18T09:01:06.429] [ERROR] default - Cannot query field "direccion" on type "User".
+[2022-04-18T09:01:06.430] [ERROR] default - Cannot query field "paralelo" on type "User".
+[2022-04-18T09:01:06.430] [ERROR] default - Cannot query field "telefono" on type "User".
+[2022-04-18T09:01:06.431] [ERROR] default - Cannot query field "apellido" on type "User".
+[2022-04-18T09:01:36.668] [INFO] default - Connected with MongoDB service (production mode)
+[2022-04-18T09:01:37.095] [INFO] default - Application running on: http://192.168.2.58:3000
+[2022-04-18T09:01:37.097] [INFO] default - Application running on: http://127.0.0.1:3000
+[2022-04-18T09:01:39.126] [ERROR] default - Cannot return null for non-nullable field User.direccion.
+[2022-04-18T09:01:43.227] [ERROR] default - Cannot return null for non-nullable field User.direccion.
+[2022-04-18T09:02:18.556] [ERROR] default - Cannot return null for non-nullable field User.telefono.
+[2022-04-18T09:02:27.090] [ERROR] default - Cannot return null for non-nullable field User.telefono.
+[2022-04-18T09:03:24.424] [INFO] default - Connected with MongoDB service (production mode)
+[2022-04-18T09:03:24.690] [INFO] default - Application running on: http://192.168.2.58:3000
+[2022-04-18T09:03:24.691] [INFO] default - Application running on: http://127.0.0.1:3000
+[2022-04-18T09:03:35.843] [ERROR] default - You must be logged in to perform this action
+[2022-04-18T09:03:47.616] [ERROR] default - You must be logged in to perform this action
+[2022-04-18T09:04:21.266] [ERROR] default - You must be logged in to perform this action
+[2022-04-18T09:05:37.657] [INFO] default - Connected with MongoDB service (production mode)
+[2022-04-18T09:05:37.865] [INFO] default - Application running on: http://192.168.2.58:3000
+[2022-04-18T09:05:37.866] [INFO] default - Application running on: http://127.0.0.1:3000
+[2022-04-18T14:31:33.900] [INFO] default - Connected with MongoDB service (production mode)
+[2022-04-18T14:31:34.498] [INFO] default - Application running on: http://192.168.2.58:3000
+[2022-04-18T14:31:34.557] [INFO] default - Application running on: http://127.0.0.1:3000
+[2022-04-18T14:35:18.042] [INFO] default - Connected with MongoDB service (production mode)
+[2022-04-18T14:35:19.216] [INFO] default - Application running on: http://192.168.2.58:3000
+[2022-04-18T14:35:19.226] [INFO] default - Application running on: http://127.0.0.1:3000
+[2022-04-18T14:37:19.648] [INFO] default - Connected with MongoDB service (production mode)
+[2022-04-18T14:37:19.870] [INFO] default - Application running on: http://192.168.2.58:3000
+[2022-04-18T14:37:19.871] [INFO] default - Application running on: http://127.0.0.1:3000
+[2022-04-18T14:38:38.182] [INFO] default - Connected with MongoDB service (production mode)
+[2022-04-18T14:38:38.382] [INFO] default - Application running on: http://192.168.2.58:3000
+[2022-04-18T14:38:38.383] [INFO] default - Application running on: http://127.0.0.1:3000
+[2022-04-18T14:39:00.967] [INFO] default - Connected with MongoDB service (production mode)
+[2022-04-18T14:39:01.181] [INFO] default - Application running on: http://192.168.2.58:3000
+[2022-04-18T14:39:01.182] [INFO] default - Application running on: http://127.0.0.1:3000
+[2022-04-18T14:39:56.157] [INFO] default - Connected with MongoDB service (production mode)
+[2022-04-18T14:39:56.395] [INFO] default - Application running on: http://192.168.2.58:3000
+[2022-04-18T14:39:56.396] [INFO] default - Application running on: http://127.0.0.1:3000
+[2022-04-18T14:40:43.470] [INFO] default - Connected with MongoDB service (production mode)
+[2022-04-18T14:40:43.674] [INFO] default - Application running on: http://192.168.2.58:3000
+[2022-04-18T14:40:43.675] [INFO] default - Application running on: http://127.0.0.1:3000
+[2022-04-18T14:41:55.337] [INFO] default - Connected with MongoDB service (production mode)
+[2022-04-18T14:41:55.546] [INFO] default - Application running on: http://192.168.2.58:3000
+[2022-04-18T14:41:55.547] [INFO] default - Application running on: http://127.0.0.1:3000
+[2022-04-18T14:42:38.272] [ERROR] default - You must be logged in to perform this action
+[2022-04-18T14:43:41.845] [INFO] default - Connected with MongoDB service (production mode)
+[2022-04-18T14:43:42.070] [INFO] default - Application running on: http://192.168.2.58:3000
+[2022-04-18T14:43:42.071] [INFO] default - Application running on: http://127.0.0.1:3000
+[2022-04-18T14:44:10.597] [INFO] default - Connected with MongoDB service (production mode)
+[2022-04-18T14:44:10.804] [INFO] default - Application running on: http://192.168.2.58:3000
+[2022-04-18T14:44:10.805] [INFO] default - Application running on: http://127.0.0.1:3000
+[2022-04-18T14:46:29.852] [INFO] default - Connected with MongoDB service (production mode)
+[2022-04-18T14:46:30.061] [INFO] default - Application running on: http://192.168.2.58:3000
+[2022-04-18T14:46:30.062] [INFO] default - Application running on: http://127.0.0.1:3000
+[2022-04-18T14:47:55.201] [INFO] default - Connected with MongoDB service (production mode)
+[2022-04-18T14:47:55.837] [INFO] default - Application running on: http://192.168.2.58:3000
+[2022-04-18T14:47:55.861] [INFO] default - Application running on: http://127.0.0.1:3000
+[2022-04-18T14:49:33.395] [INFO] default - Connected with MongoDB service (production mode)
+[2022-04-18T14:49:33.883] [INFO] default - Application running on: http://192.168.2.58:3000
+[2022-04-18T14:49:34.000] [INFO] default - Application running on: http://127.0.0.1:3000
+[2022-04-18T14:50:42.080] [INFO] default - Connected with MongoDB service (production mode)
+[2022-04-18T14:50:42.299] [INFO] default - Application running on: http://192.168.2.58:3000
+[2022-04-18T14:50:42.300] [INFO] default - Application running on: http://127.0.0.1:3000
+[2022-04-18T14:52:17.536] [ERROR] default - You must be logged in to perform this action
+[2022-04-18T14:54:14.382] [INFO] default - Connected with MongoDB service (production mode)
+[2022-04-18T14:54:14.777] [INFO] default - Application running on: http://192.168.2.58:3000
+[2022-04-18T14:54:14.781] [INFO] default - Application running on: http://127.0.0.1:3000
+[2022-04-18T14:57:18.963] [ERROR] default - Cannot query field "nivel" on type "User". Did you mean "name"?
+[2022-04-18T14:59:13.078] [INFO] default - Connected with MongoDB service (production mode)
+[2022-04-18T14:59:13.613] [INFO] default - Application running on: http://192.168.2.58:3000
+[2022-04-18T14:59:13.614] [INFO] default - Application running on: http://127.0.0.1:3000
+[2022-04-18T14:59:19.605] [ERROR] default - You must be logged in to perform this action
+[2022-04-18T14:59:46.066] [ERROR] default - You must be logged in to perform this action
+[2022-04-18T15:00:12.657] [INFO] default - Connected with MongoDB service (production mode)
+[2022-04-18T15:00:12.903] [INFO] default - Application running on: http://192.168.2.58:3000
+[2022-04-18T15:00:12.903] [INFO] default - Application running on: http://127.0.0.1:3000
+[2022-04-18T15:00:46.369] [ERROR] default - You must be logged in to perform this action
+[2022-04-18T15:00:59.333] [INFO] default - Connected with MongoDB service (production mode)
+[2022-04-18T15:00:59.585] [INFO] default - Application running on: http://192.168.2.58:3000
+[2022-04-18T15:00:59.586] [INFO] default - Application running on: http://127.0.0.1:3000
+[2022-04-18T15:11:12.648] [INFO] default - Connected with MongoDB service (production mode)
+[2022-04-18T15:11:12.863] [INFO] default - Application running on: http://192.168.2.58:3000
+[2022-04-18T15:11:12.864] [INFO] default - Application running on: http://127.0.0.1:3000
+[2022-04-18T15:11:52.384] [INFO] default - Connected with MongoDB service (production mode)
+[2022-04-18T15:11:52.620] [INFO] default - Application running on: http://192.168.2.58:3000
+[2022-04-18T15:11:52.620] [INFO] default - Application running on: http://127.0.0.1:3000
+[2022-04-18T15:12:52.247] [INFO] default - Connected with MongoDB service (production mode)
+[2022-04-18T15:12:52.455] [INFO] default - Application running on: http://192.168.2.58:3000
+[2022-04-18T15:12:52.456] [INFO] default - Application running on: http://127.0.0.1:3000
+[2022-04-18T15:14:49.926] [INFO] default - Connected with MongoDB service (production mode)
+[2022-04-18T15:14:50.164] [INFO] default - Application running on: http://192.168.2.58:3000
+[2022-04-18T15:14:50.165] [INFO] default - Application running on: http://127.0.0.1:3000
+[2022-04-18T15:18:14.977] [INFO] default - Connected with MongoDB service (production mode)
+[2022-04-18T15:18:15.240] [INFO] default - Application running on: http://192.168.2.58:3000
+[2022-04-18T15:18:15.241] [INFO] default - Application running on: http://127.0.0.1:3000
+[2022-04-18T15:39:18.370] [ERROR] default - You must be an administrator to perform this action
+[2022-04-18T15:39:41.916] [ERROR] default - You must be an administrator to perform this action
+[2022-04-18T15:40:25.170] [ERROR] default - Cannot return null for non-nullable field User.direccion.
+[2022-04-19T20:56:08.069] [INFO] default - Connected with MongoDB service (production mode)
+[2022-04-19T20:56:08.956] [INFO] default - Application running on: http://192.168.2.58:3000
+[2022-04-19T20:56:08.964] [INFO] default - Application running on: http://127.0.0.1:3000
