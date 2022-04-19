@@ -63,6 +63,30 @@ const UsersSchema = new Schema({
 		type:String,
 		required: true,
 		default:'admin'
+	},
+	turno:{
+		type:String,
+		required: true,
+	},
+	apellido:{
+		type:String,
+		required: true,
+	},
+	telefono:{
+		type:String,
+		required: true,
+	},
+	direccion:{
+		type:String,
+		required: true,
+	},
+	nivel:{
+		type:String,
+		required: true,
+	},
+	paralelo:{
+		type:String,
+		required: true,
 	}
 });
 

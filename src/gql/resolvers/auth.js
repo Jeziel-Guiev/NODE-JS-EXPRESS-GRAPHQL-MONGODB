@@ -57,7 +57,7 @@ export default {
 			}
 
 			const user = await context.di.model.Users.findOne({ email, isActive: true });
-			console.log(user);
+			//console.log(user);
 			if (!user) {
 				throw new UserInputError('User not found or login not allowed');
 			}

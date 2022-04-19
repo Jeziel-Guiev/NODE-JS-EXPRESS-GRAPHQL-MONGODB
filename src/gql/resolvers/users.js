@@ -11,15 +11,23 @@ export default {
 		 * It allows to administrators users to list all users registered
 		 */
 		listAllUsers:  async (parent, args, context) => {
+			//console.log(context.user)
 			authValidations.ensureThatUserIsLogged(context); // Filtros para no avanzar si un usario no seta loguado
 
 			authValidations.ensureThatUserIsAdministrator(context); //Si un usuario no es admin
  
 			return context.di.model.Users.find({}); // Buscamos todos los registros de nuestra base de datos 
 		},
-		getUserforID(_, { id },context){
-			console.log(context)
-			return models.Users.find({'_id':id}).clone().catch(function(err){ console.log(err)});
+		GetUserforId:async (_, { id },context)=>{
+			//console.log('context')
+			 authValidations.ensureThatUserIsLogged(context); // Filtros para no avanzar si un usario no seta loguado
+
+			 authValidations.ensureThatUserIsAdministrator(context); //Si un usuario no es admin
+ 
+			
+			const data= await context.di.model.Users.findById(id).clone().catch(function(err){ console.log(err)});
+			//console.log(data);
+			return data;
 		}
 	},
 	Mutation: {
