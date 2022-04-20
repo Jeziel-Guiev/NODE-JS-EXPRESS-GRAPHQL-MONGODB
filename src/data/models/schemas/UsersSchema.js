@@ -30,63 +30,63 @@ const UsersSchema = new Schema({
 	},
 	isAdmin: {
 		type: Boolean, //----
-		required: true, //---
+		 //---
 		default: false // Al momento de crear este campo si no se lo pasa el valor que tomara por defecto sera 'false'
 	},
 	isActive: { // Propio del Repo, si esta activo esta cuenta
 		type: Boolean,
-		required: true,
+		
 		default: true
 	},
 	// uuid: { //Elimino uuid pienso que lo podemos obtener desde el mismo _id
 	// 	type: String,
-	// 	//required: true,
+	// 	//
 	// 	//unique: true,
 	// 	//default: randomUUID
 	// },
 	registrationDate: { // Fecha de registro 
 		type: Date, //Tipo Date
-		required: true,
+		
 		default: Date.now // Por defecto si no se manda la fecha tomara en cuenta la fecha actual del servidor donde corre MONGODB
 	},
 	lastLogin: { // Ultima hora o fecha de logueo
 		type: Date, //----
-		required: true, //----
+		 //----
 		default: Date.now //-----
 	},
 	ability:{
 		type:Array,
-		required: true,
+		
 		default:[{resource: 'admin'}]
 	},
 	role:{
 		type:String,
-		required: true,
+		
 		default:'admin'
 	},
 	turno:{
 		type:String,
-		required: true,
+		
 	},
 	apellido:{
 		type:String,
-		required: true,
+		
 	},
 	telefono:{
 		type:String,
-		required: true,
+		
 	},
 	direccion:{
 		type:String,
-		required: true,
+		
 	},
 	nivel:{
 		type:String,
-		required: true,
+		
 	},
 	paralelo:{
 		type:String,
-		required: true,
+		
 	}
 });
 
