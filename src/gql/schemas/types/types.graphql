@@ -1,0 +1,32 @@
+""" Token """
+type Token {
+	token: String
+}
+
+type ability{
+	resource:String
+}
+""" Usuario """
+type User {
+	id: ID
+	direccion:String!
+	telefono:String!
+	paralelo:String!
+	turno:String!
+	apellido:String
+	name: String
+	nivel: String
+	email: String
+	isAdmin: Boolean
+	isActive: Boolean
+	uuid: String
+	ability:[ability]
+	role:String
+	registrationDate: String
+	lastLogin: String
+}
+
+""" Delete Result """
+type DeleteResult {
+	deletedCount: Int!
+}

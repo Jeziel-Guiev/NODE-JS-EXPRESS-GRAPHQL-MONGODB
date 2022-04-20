@@ -1,0 +1,11 @@
+type Mutation {
+	# Auth mutations
+	""" It allows users to register """
+	registerUser(name: String!,email: String!, password: String!): Token
+
+	""" It allows users to authenticate """
+	authUser(email: String!, password: String!): Token
+
+	""" It allows to user to delete their account permanently """
+	deleteMyUserAccount: DeleteResult
+}
